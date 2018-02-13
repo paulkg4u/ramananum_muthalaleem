@@ -1,0 +1,14 @@
+{
+  "name": "thenga_trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paulkottalil20@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "thengascript": "^0.1.2"
+  }
+}
